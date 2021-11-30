@@ -1,0 +1,29 @@
+body {
+  color: black;
+  background-color: black;
+}
+.container {
+  color: #fff;
+  font-size: 15px;
+  text-align: center;
+}
+.container-fluid {
+  background-color: #ff7200;
+}
+.container-fluid button {
+  border-radius: 10px 20px;
+}
+nav {
+  background-color: aquamarine;
+}
+.row {
+  margin-top: 40px;
+  margin-left: 10px;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: lightslategray;
+  color: #fff;
+}
